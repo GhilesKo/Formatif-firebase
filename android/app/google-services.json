@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318698538346",
+    "project_id": "formatifenfeu",
+    "storage_bucket": "formatifenfeu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318698538346:android:eb35810c45c2beeaab5113",
+        "android_client_info": {
+          "package_name": "cem.formatif.firebase_start"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318698538346-fnv1qhjchs08cqku494s8928vfghdet3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEGZag0QHBydcb6Q6zRx6ZImnws4K4VQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318698538346-fnv1qhjchs08cqku494s8928vfghdet3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
